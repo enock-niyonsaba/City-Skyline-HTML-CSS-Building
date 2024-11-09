@@ -12,9 +12,6 @@ Day Image for screen more than 1000px
   <figcaption>City Skyline: A simulation of buildings with day and night transitions.</figcaption>
 </figure>
 
- 
-Night Image for smaller screen width
-
 ## Features
 
 - **Responsive Design**: The city skyline adjusts between day and night modes when resizing the screen.
