@@ -4,10 +4,16 @@ This project is a city skyline simulation created using HTML and CSS. The buildi
 
 ## Sample Images
 Day Image for screen more than 1000px
-<img src="assets/City Skyline Day.png" alt="City Skyline" width="300">
-![City Skyline Day](https://github.com/enock-niyonsaba/City-Skyline-HTML-CSS-Building/blob/master/assets/City%20Skyline%20Day.png)
+<figure>
+  <div style="display: flex;flex-direction: column;align-items: center;justify-content: center;">
+    <img src="assets/City Skyline Day.png" alt="City Skyline Day" width="300">
+    <img src="assets/City SkyLine Night.png" alt="City Skyline Night" width="300">
+  </div>
+  <figcaption>City Skyline: A simulation of buildings with day and night transitions.</figcaption>
+</figure>
+
+ 
 Night Image for smaller screen width
-![City Skyline Night](https://github.com/enock-niyonsaba/City-Skyline-HTML-CSS-Building/blob/master/assets/City%20SkyLine%20Night.png)
 
 ## Features
 
