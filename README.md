@@ -1,30 +1,21 @@
+# City Skyline with CSS and HTML
 
-# this project is for ALX-SE_program 
-## using the MarkDown syntaxes
+This project is a city skyline simulation created using HTML and CSS. The buildings, windows, and sky are designed to change in response to screen size, simulating a transition between day and night. The sky background uses a radial gradient to represent the sun and moon, and each building features different color schemes and window styles.
 
- 
-#### Emphasis
-  This can't work for me  /*    *Italic* _Strong_   */ 
-**Strong**  __Strong__
+## Features
 
-### link
+- **Responsive Design**: The city skyline adjusts between day and night modes when resizing the screen.
+- **Customizable Colors**: Easily change the look of buildings and windows by adjusting CSS variables.
+- **Gradients & Patterns**: The buildings use repeating linear gradients to simulate windows and facades.
+- **Layered Design**: The buildings are placed in the background and foreground layers for added depth.
 
-A [link](http://#)
+## Project Structure
 
+- **`index.html`**: Contains the structure of the city skyline, including background and foreground buildings, as well as the sky element.
+- **`styles.css`**: Defines all the styling, including custom properties for colors, gradients for buildings, and media queries for responsive design.
 
-##### referenced link
-Some text with [a link][1]
-another [link][2].
-[1]: http://example.com/ "Title"
-[2]: http://example.com/ "Title"
+## How to Use
 
-
-# image
-![Alt](/wp.png "Title")
-
-/*  use the available image in your folder  */
-
-Anychangement
-
-
-# AM not sure of what i will do     ?? Any help Please 
+1. **Clone or Download the Project**:  
+   Clone the repository or download the files.
+   git clone ``https://github.com/enock-niyonsaba/HTML-CSS-Building.git``
